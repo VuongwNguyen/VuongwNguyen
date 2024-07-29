@@ -1,70 +1,40 @@
-# Quy tắc Đặt Tên Biến và Viết Commit
+# Giới thiệu Bản thân
 
-## Quy tắc Đặt Tên Biến
+## Thông tin Cá nhân
+- **Tên:** Nguyễn Quốc Vương
+- **Ngày sinh:** 01/03/2004
+- **Địa chỉ:** Quận 12, Thành phố Hồ Chí Minh, Việt Nam
+- **Email:** nguyenvuongw134@example.com
+- **Điện thoại:** (+84) 975091673
 
-1. **Biến Thường**
-   - Sử dụng **camelCase** cho tên biến thường.
-   - Ví dụ: `userName`, `totalPrice`, `isActive`.
+## Học vấn
+- **Cử nhân Công nghệ Thông tin**
+  - **Trường:** Cao đẳng FPT Polytechnic
+  - **Năm tốt nghiệp:** 2024
+  - **Thành tích:** none
 
-2. **Hằng Số**
-   - Sử dụng **UPPER_CASE_SNAKE_CASE** cho tên hằng số.
-   - Ví dụ: `MAX_CONNECTIONS`, `DEFAULT_TIMEOUT`.
+## Kỹ năng
+- **Ngôn ngữ lập trình:** JavaScript, Java, Kotlin
+- **Phát triển Web:** HTML, CSS, React, Jetpack Compose, Node.js
+- **Cơ sở dữ liệu:** MySQL, MongoDB
+- **Quản lý dự án:** Agile, Scrum
 
-3. **Tên Hàm**
-   - Sử dụng **camelCase** cho tên hàm.
-   - Tên hàm nên bắt đầu bằng động từ.
-   - Ví dụ: `getUserInfo`, `calculateTotal`, `isUserActive`.
+## Dự án Nổi bật
+### Hệ thống Quản lý Bán hàng
+- **Mô tả:** Hệ thống giúp quản lý và theo dõi các hoạt động bán hàng của doanh nghiệp.
+- **Công nghệ:** React, Node.js, MongoDB
+- **Vai trò:** Trưởng nhóm phát triển, lập trình viên chính
 
-4. **Tên Lớp**
-   - Sử dụng **PascalCase** cho tên lớp.
-   - Ví dụ: `UserService`, `ProductRepository`.
+### Ứng dụng Di động "Dreams"
+- **Mô tả:** Ứng dụng mạng xã hội giúp người dùng chia sẻ ước mơ và kết nối với những người có cùng sở thích.
+- **Công nghệ:** React Native, Node.js, MySQL
+- **Vai trò:** Product Owner
 
-5. **Biến Toàn Cục (Global Variables)**
-   - Tránh sử dụng biến toàn cục nếu có thể.
-   - Nếu phải sử dụng, hãy đặt tên biến bắt đầu bằng `g_` hoặc `global_`.
-   - Ví dụ: `g_appConfig`, `globalUserCount`.
+## Sở thích
+- **Đọc sách:** Công nghệ, Kinh doanh, Phát triển bản thân
+- **Thể thao:** Bóng đá, Cầu lông
+- **Du lịch:** Khám phá các địa điểm mới, văn hóa và ẩm thực
 
-6. **Biến Thành Viên Lớp (Class Member Variables)**
-   - Sử dụng **camelCase** và bắt đầu bằng `_` (underscore) nếu là biến private.
-   - Ví dụ: `_userName`, `_totalPrice`.
-
-7. **Biến Mảng và Danh Sách**
-   - Đặt tên biến thể hiện rõ rằng đây là một mảng hoặc danh sách.
-   - Ví dụ: `userList`, `productArray`.
-
-8. **Biến Boolean**
-   - Đặt tên biến bắt đầu bằng `is`, `has`, `can`, hoặc `should`.
-   - Ví dụ: `isLoggedIn`, `hasAccess`, `canEdit`.
-
-## Quy tắc Viết Commit
-
-1. **Cấu trúc Commit Message**
-   - Commit message nên bao gồm một dòng tiêu đề (summary) ngắn gọn, theo sau bởi mô tả chi tiết hơn (nếu cần).
-   - Tiêu đề nên có độ dài tối đa là 50 ký tự và câu mô tả không quá 72 ký tự.
-
-2. **Cú Pháp Commit Message**
-<type>: <subject><BLANK LINE><body><BLANK LINE><footer>
-
-3. ## Các Loại Commit (Types)
-
-- **feat**: Thêm một tính năng mới.
-  - Ví dụ: `feat: add login functionality`
-- **fix**: Sửa lỗi.
-  - Ví dụ: `fix: correct user login error`
-- **docs**: Thay đổi về tài liệu.
-  - Ví dụ: `docs: update API documentation`
-- **style**: Thay đổi về mã mà không ảnh hưởng đến logic (dấu cách, dấu chấm phẩy, v.v.).
-  - Ví dụ: `style: format code in user controller`
-- **refactor**: Thay đổi mã mà không sửa lỗi hoặc thêm tính năng.
-  - Ví dụ: `refactor: improve performance of data processing`
-- **test**: Thêm hoặc sửa các bài kiểm tra.
-  - Ví dụ: `test: add unit tests for user service`
-- **chore**: Các thay đổi nhỏ hoặc không ảnh hưởng đến sản phẩm (cập nhật dependencies, cấu hình build, v.v.).
-  - Ví dụ: `chore: update npm dependencies`
-
-4. ## Quy tắc Viết Tiêu Đề (Subject)
-
-- Sử dụng thì hiện tại (present tense).
-- Không viết hoa chữ cái đầu tiên.
-- Không kết thúc bằng dấu chấm câu.
-  - Ví dụ: `fix: resolve issue with user authentication`
+## Liên hệ
+- **LinkedIn:** 
+- **GitHub:** 
