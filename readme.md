@@ -4,7 +4,7 @@
 - **Tên:** Nguyễn Quốc Vương
 - **Ngày sinh:** 01/03/2004
 - **Địa chỉ:** Quận 12, Thành phố Hồ Chí Minh, Việt Nam
-- **Email:** nguyenvuongw134@example.com
+- **Email:** nguyenvuongw134@gmail.com
 - **Điện thoại:** (+84) 975091673
 
 ## Học vấn
