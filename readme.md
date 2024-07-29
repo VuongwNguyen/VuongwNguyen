@@ -23,7 +23,7 @@
 ### Hệ thống Quản lý Bán hàng
 - **Mô tả:** Hệ thống giúp quản lý và theo dõi các hoạt động bán hàng của doanh nghiệp.
 - **Công nghệ:** React, Node.js, MongoDB
-- **Vai trò:** Trưởng nhóm phát triển, lập trình viên chính
+- **Vai trò:** FullStack Development
 
 ### Ứng dụng Di động "Dreams"
 - **Mô tả:** Ứng dụng mạng xã hội giúp người dùng chia sẻ ước mơ và kết nối với những người có cùng sở thích.
