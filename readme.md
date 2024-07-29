@@ -15,7 +15,9 @@
 
 ## Kỹ năng
 - **Ngôn ngữ lập trình:** JavaScript, Java, Kotlin
-- **Phát triển Web:** HTML, CSS, React, Jetpack Compose, Node.js
+- **Phát triển Web:** HTML, CSS, React, Jetpack Compose
+- **Phát triển Mobile:** React, Jetpack Compose
+- **Phát triển Server:** NodeJS
 - **Cơ sở dữ liệu:** MySQL, MongoDB
 - **Quản lý dự án:** Agile, Scrum
 
