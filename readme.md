@@ -10,7 +10,7 @@
 ## Học vấn
 - **Cử nhân Công nghệ Thông tin**
   - **Trường:** Cao đẳng FPT Polytechnic
-  - **Năm tốt nghiệp:** 2024
+  - **Năm tốt nghiệp:** 4/2025
   - **Thành tích:** none
 
 ## Kỹ năng
