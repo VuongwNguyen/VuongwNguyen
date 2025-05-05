@@ -3,7 +3,7 @@
 ## Thông tin Cá nhân
 - **Tên:** Nguyễn Quốc Vương
 - **Ngày sinh:** 01/03/2004
-- **Địa chỉ:** Quận 12, Thành phố Hồ Chí Minh, Việt Nam
+- **Địa chỉ:** Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
 - **Email:** nguyenvuongw134@gmail.com
 - **Điện thoại:** (+84) 975091673
 
@@ -11,15 +11,17 @@
 - **Cử nhân Công nghệ Thông tin**
   - **Trường:** Cao đẳng FPT Polytechnic
   - **Năm tốt nghiệp:** 4/2025
-  - **Thành tích:** none
+  - **Thành tích:** Cử nhân Công Nghệ Thông Tin
+  - **GPA:** 3.65
 
 ## Kỹ năng
-- **Ngôn ngữ lập trình:** JavaScript, Java, Kotlin
-- **Phát triển Web:** HTML, CSS, React, Jetpack Compose
-- **Phát triển Mobile:** React, Jetpack Compose
-- **Phát triển Server:** NodeJS
+- **Ngôn ngữ lập trình:** JavaScript, TypeScript, Java, Kotlin, Dart
+- **Phát triển Web:** HTML, CSS, React, NextJS
+- **Phát triển Mobile:** React- Native, Jetpack Compose, Flutter
+- **Phát triển Server:** NodeJS, NestJS
 - **Cơ sở dữ liệu:** MySQL, MongoDB
 - **Quản lý dự án:** Agile, Scrum
+- **DevOps:** Git, GitHub, GitLab, AWS
 
 ## Dự án Nổi bật
 ### Hệ thống Quản lý Bán hàng
@@ -38,5 +40,5 @@
 - **Du lịch:** Khám phá các địa điểm mới, văn hóa và ẩm thực
 
 ## Liên hệ
-- **LinkedIn:** 
-- **GitHub:** 
+- **LinkedIn:** https://www.linkedin.com/in/qvuong0134/
+- **GitHub:**
